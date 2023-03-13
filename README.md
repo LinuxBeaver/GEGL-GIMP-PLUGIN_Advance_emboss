@@ -1,4 +1,4 @@
-This GEGL plugin was solely made for my personal needs. Think of it as a fork of the emboss filter with addition smoothing and color/image file overlays.
+This GEGL plugin was solely made for my personal needs. Think of it as a fork of the emboss filter with additional smoothing filters and color/image file overlays. By the time Gimp 3.2 is released it will not be needed as smart filters will be a better alternative.
 
 
 
