@@ -2,6 +2,9 @@ This GEGL plugin was solely made for my personal needs. Think of it as a fork of
 
 
 
+![image preview](advance_emboss.png )
+
+
 ## Compiling and Installing
 
 ### Linux
