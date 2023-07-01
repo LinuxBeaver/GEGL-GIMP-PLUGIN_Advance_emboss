@@ -17,6 +17,26 @@
  * 2023 Beaver (GEGL Advance emboss texture maker)
  */
 
+/*
+June 25 2023 GEGL Graph recreation of plugin.
+
+gray
+id=1 hard-light aux=[ ref=1 emboss 
+gaussian-blur std-dev-x=0 std-dev-y=0
+opacity value=1
+unsharp-mask scale=0
+
+mean-curvature-blur iterations=9
+
+
+ ]
+
+#id=2 multiply aux=[ ref=2 color-overlay value=#5365ff  ]
+hue-chroma lightness=0
+denoise-dct  sigma=20
+ */
+
+
 #include "config.h"
 #include <glib/gi18n-lib.h>
 
