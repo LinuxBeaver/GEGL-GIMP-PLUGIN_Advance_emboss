@@ -387,7 +387,7 @@ GeglOperationMetaClass *operation_meta_class = GEGL_OPERATION_META_CLASS (klass)
     "title",       _("Advance Emboss"),
     "categories",  "Artistic",
     "reference-hash", "em3d33efjf25612ac",
-    "description", _("A fork of Gimp's emboss filter that allows texture overlays, blend mode swapping, and smoothing filters. Use alpha lock on transparent images.'"
+    "description", _("A fork of Gimpꞌs emboss filter that allows texture overlays, blend mode swapping, and smoothing filters. Use alpha lock on transparent images.ꞌ"
                      ""),
     NULL);
 }
